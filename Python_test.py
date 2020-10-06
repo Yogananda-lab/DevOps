@@ -8,4 +8,4 @@ print(c)
 print("Hello World")
 
 print("New Line for Python")
-print(c)
+print(a)
