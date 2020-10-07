@@ -9,3 +9,4 @@ print("Hello World")
 
 print("New Line for Python")
 print(a)
+print(b)
